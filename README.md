@@ -6,6 +6,9 @@
 ![svg](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg)
 ![svg](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)
 
+- 🌱 I am currently engaged in a dedicated pursuit of proficiency in React.
+
+- ⚡ Fun fact: My code is so magical that even Gandalf would be impressed! ✨✨
 
 <!--
 **abhishek-das-ind/abhishek-das-ind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
