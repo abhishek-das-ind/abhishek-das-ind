@@ -6,6 +6,8 @@
 ![svg](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg)
 ![svg](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)
 
+I'm a fresh graduate on the lookout for a software developer position, where I can leverage my skills and knowledge to create impactful software solutions.
+
 - 🌱 I am currently engaged in a dedicated pursuit of proficiency in React.
 
 - ⚡ Fun fact: My code is so magical that even Gandalf would be impressed! ✨✨
