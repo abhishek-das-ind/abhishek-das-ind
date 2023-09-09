@@ -9,7 +9,7 @@
 I'm a fresh graduate on the lookout for a software developer position, where I can leverage my skills and knowledge to create impactful software solutions.
 
 - 🌱 I am currently engaged in a dedicated pursuit of proficiency in React.
-
+- 💞️ I’m looking to collaborate on anything between front/back-end.
 - ⚡ Fun fact: My code is so magical that even Gandalf would be impressed! ✨✨
 
 <!--
