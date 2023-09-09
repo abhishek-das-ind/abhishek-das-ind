@@ -7,6 +7,8 @@
 ![svg](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
 ![svg](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)
 ![svg](https://img.icons8.com/?size=1x&id=2T6TKY6whzgV&format=png)
+![svg](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+![svg](https://www.vectorlogo.zone/logos/java/java-vertical.svg)
 
 
 <!--
