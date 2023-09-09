@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Abhishek 👋
+
+![svg](https://img.icons8.com/?size=1x&id=108784&format=png)
+![svg](https://img.icons8.com/?size=1x&id=21278&format=png)
+![svg](https://img.icons8.com/?size=1x&id=20909&format=png)
+![svg](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
+![svg](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
+![svg](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)
+![svg](https://img.icons8.com/?size=1x&id=2T6TKY6whzgV&format=png)
+
 
 <!--
 **abhishek-das-ind/abhishek-das-ind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
