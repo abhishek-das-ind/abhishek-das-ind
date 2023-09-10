@@ -12,6 +12,8 @@ I'm a fresh graduate on the lookout for a software developer position, where I c
 - 💞️ I’m looking to collaborate on anything between front/back-end.
 - ⚡ Fun fact: My code is so magical that even Gandalf would be impressed! ✨✨
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhishek-das-ind&theme=dark)](https://git.io/streak-stats)
+
 <!--
 **abhishek-das-ind/abhishek-das-ind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
